@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src = "https://c.tenor.com/cRMzd2uQl40AAAAC/yuigahama-yui.gif">
 
 <!--
 **Yatogami-Tohka1/Yatogami-Tohka1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
