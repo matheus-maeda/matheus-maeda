@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src = "https://c.tenor.com/cRMzd2uQl40AAAAC/yuigahama-yui.gif">
+<img src = "https://i.redd.it/bivgt8mu3jt51.gif">
 
 ### My name is Matheus
 ### I'm 18 years old
