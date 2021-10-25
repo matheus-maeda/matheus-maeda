@@ -1,6 +1,12 @@
 ### Hi there 👋
 <img src = "https://c.tenor.com/cRMzd2uQl40AAAAC/yuigahama-yui.gif">
 
+### My name is Matheus
+### I'm 18 years old
+### I'm from Brazil
+
+###mputer Engineering student
+
 <!--
 **Yatogami-Tohka1/Yatogami-Tohka1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
