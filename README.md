@@ -1,5 +1,4 @@
 ### Hi there 👋
-<img src = "https://i.redd.it/bivgt8mu3jt51.gif">
 
 ### My name is Matheus
 ### I'm 18 years old
